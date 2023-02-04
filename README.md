@@ -1,5 +1,5 @@
 ## About
-破解Google reCAPTCHA v2 验证码并自动登入目标网站
+破解Google reCAPTCHA v2 验证码并成功提交表单
 
 ## Feature
 
